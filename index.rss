@@ -2,6 +2,12 @@
 <title>jim west's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
+<item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
+<item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
+<item><title>Master Seamstress (Level 7)</title><description>amended a commit with git commit --amend.</description></item>
+<item><title>Apprentice Presenter (Level 1)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
+<item><title>Dentist</title><description>Extracted patches using git log -p.</description></item>
 <item><title>Apprentice Web Designer (Level 1)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Investigator (Level 6)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
@@ -16,10 +22,4 @@
 <item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Cleaning lady (Level 2)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Seamstress (Level 6)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Architect (Level 5)</title><description>Created a new repository with git init.</description></item>
-<item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 </channel></rss>
